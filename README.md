@@ -15,7 +15,7 @@ This is the initial Github repository for the CS 485 X Class of the Spring 2022 
 8. We'll wait for instructions from the Professor as you'd need to wait for everyone to submit their work
 
 ## Part 2: Collaborating with Peers
-1. Go to your Github account and locate this repository by going to: https://github.com/paoga87/cs485-s21
+1. Go to your Github account and locate this repository by going to: https://github.com/paoga87/cs485-s22/
 2. Create a pull request (follow class demo)
 3. We'll wait for instructions from the Professor. We'd need to wait for everyone to submit their pull requests.
 4. Once the Professor indicates, update your branch with all of everyone's work. Command: `git pull`
